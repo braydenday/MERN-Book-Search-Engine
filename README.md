@@ -21,7 +21,7 @@ A Google Books API search engine through an Apollo Server connection. This appli
 ## Usage
 ![search-page](/assets/imgs/Screenshot%202023-09-27%20203822.png "Searched Page")
 Live deployed application on Heroku:
-<!-- https://braydens-text-editor-e4fcf33641c7.herokuapp.com/ -->
+https://braydenslibrary-178cf4feb9a4.herokuapp.com/
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
