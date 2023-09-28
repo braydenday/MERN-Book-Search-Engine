@@ -14,5 +14,12 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
+"engines": {
+  "node": "18.x",
+  "npm": "9.8.1"
+}
 }
